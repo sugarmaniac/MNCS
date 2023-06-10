@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usd">Dolar</string>
+    <string name="eur">Euro</string>
+    <string name="gbp">Sterlin</string>
+    <string name="rub">Rus Rublesi</string>
+    <string name="cny">Yuan</string>
+    <string name="home">Ana Sayfa</string>
+    <string name="history">Geçmiş İşlemler</string>
+    <string name="welcome_with_name">Merhaba, %1$s!</string>
+    <string name="wallet_id">Cüzdan ID: %1$s</string>
+    <string name="currency_units">Para Birimleri</string>
+    <string name="add_money">Para Ekle</string>
+    <string name="past_transactions">Geçmiş İşlemler</string>
+    <string name="buy">Satın al</string>
+    <string name="buy_text">%1s Satın Alım</string>
+    <string name="price_bought">Alınan Fiyat: %1$.2f₺</string>
+    <string name="_1s_you_want_to_buy">Satın almak istediğiniz %1s</string>
+    <string name="total_price_text">Toplam Maliyet</string>
+</resources>
